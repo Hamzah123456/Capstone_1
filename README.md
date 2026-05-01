@@ -54,5 +54,5 @@ underperforming locations.
 
 \- `alssoudi\_florida\_chart.xlsx` - PivotChart visualization
 
-\- Video: \[Link to your video once recorded]
+\- Video: \<video controls src="Final_Capstone.mp4" title="Title"></video>
 
